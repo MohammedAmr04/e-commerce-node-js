@@ -2,7 +2,6 @@
 node_modules/
 
 # Environment variables
-.env
 
 # Logs
 logs/
@@ -14,9 +13,9 @@ npm-debug.log*
 Thumbs.db
 
 # Optional: IDE/editor-specific
-.vscode/
 .idea/
 
 # Optional: build output
 dist/
 build/
+config.bat
